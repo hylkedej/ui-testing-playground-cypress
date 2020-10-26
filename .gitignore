@@ -104,3 +104,4 @@ dist
 .tern-port
 
 /cypress/.DS_Store
+.DS_Store
