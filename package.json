@@ -1,0 +1,20 @@
+{
+  "name": "ui-test-playground",
+  "version": "1.0.0",
+  "description": "Practicing ui testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "UI",
+    "test",
+    "automation",
+    "Cypress"
+  ],
+  "author": "Hylke de Jong",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}
