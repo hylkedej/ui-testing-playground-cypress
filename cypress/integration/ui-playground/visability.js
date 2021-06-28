@@ -28,7 +28,7 @@ describe('Checking visability of elements', () => {
     cy.get(invisibleButton).should('be.visible');
     cy.get(notdisplayedButton).should('be.visible');
     cy.get(offscreenButton).should('be.visible');
-  }); 
+  });
 
   it('all elements should be hidden AFTER clicking the hide button', () => {
     cy.get(hideButten).click();

@@ -18,4 +18,4 @@ describe('It should be possible to', () => {
     cy.get(ajaxDataLabel).should('be.visible');
     cy.get(ajaxDataLabel).should('contain', 'Data loaded with AJAX get request.');
   });
-});  
+});

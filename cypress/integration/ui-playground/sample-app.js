@@ -6,7 +6,7 @@ const notValidPassword = 'blablabla';
 const userNameField = 'input[name="UserName"]';
 const passwordField = 'input[name="Password"]';
 const messageLabel = '#loginstatus';
-const logInButton = '.btn-primary'; 
+const logInButton = '.btn-primary';
 const logOutButton = '.btn-primary'; //yeah, same as logInButton but the demo app is badly written
 
 function logIn(user, password) {
